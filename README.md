@@ -4,7 +4,7 @@ VidyaMandir is an educational courses content website. It provides a platform fo
 
 ![Screenshot 2024-06-24 001333](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/dfc0ca44-7c57-434e-a177-f03086f519a7)
 
-**Live Link**:-https://vidyamandir.netlify.app/
+**Live Link**:-https://vidyamandir.netlify.app
 
 ## Table of Contents
 
