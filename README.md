@@ -33,7 +33,8 @@ VidyaMandir is an educational courses content website. It provides a platform fo
 ![Screenshot 2024-06-24 001418](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/bf121702-a9f7-4bd4-98a0-3cad12d3f954)
 
 
-![Screenshot 2024-06-24 001513](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/ae6ce582-aefd-49db-beb7-3d0671983122)
+![image](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/e316706e-419f-41c6-bf71-582d478c5e76)
+
 
 
 ## Installation
