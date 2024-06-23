@@ -10,11 +10,7 @@ VidyaMandir is an educational courses content website. It provides a platform fo
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Components](#components)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
