@@ -2,6 +2,8 @@
 
 VidyaMandir is an educational courses content website. It provides a platform for users to explore and enroll in various courses. The app includes user authentication, course management, and a user-friendly interface for browsing and managing courses.
 
+![Screenshot 2024-06-24 001333](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/dfc0ca44-7c57-434e-a177-f03086f519a7)
+
 **Live Link**:-https://vidyamandir.netlify.app/
 
 ## Table of Contents
@@ -23,7 +25,7 @@ VidyaMandir is an educational courses content website. It provides a platform fo
 - Responsive Design
 - Contact Developer
 ## Screenshots
-![Screenshot 2024-06-24 001333](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/dfc0ca44-7c57-434e-a177-f03086f519a7)
+
 
 
 ![Screenshot 2024-06-24 001343](https://github.com/DhruvTyagi18/VidyaMandir/assets/92265404/b719bcf4-0c86-4133-acfe-dd6ccf2ec43f)
